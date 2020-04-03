@@ -1,6 +1,6 @@
 {
   "name": "team-generator",
-  "hompage": "http://johnnyji123.github.io/random-team-generator",
+  "hompage": "/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
