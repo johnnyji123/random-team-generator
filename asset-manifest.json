@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/random-team-generator/static/css/main.ab5f3607.chunk.css",
+    "main.css": "/random-team-generator/static/css/main.1477347a.chunk.css",
     "main.js": "/random-team-generator/static/js/main.5f53cb31.chunk.js",
     "main.js.map": "/random-team-generator/static/js/main.5f53cb31.chunk.js.map",
     "runtime-main.js": "/random-team-generator/static/js/runtime-main.ec6ef36d.js",
@@ -9,17 +9,17 @@
     "static/js/2.c5c8f678.chunk.js": "/random-team-generator/static/js/2.c5c8f678.chunk.js",
     "static/js/2.c5c8f678.chunk.js.map": "/random-team-generator/static/js/2.c5c8f678.chunk.js.map",
     "index.html": "/random-team-generator/index.html",
-    "precache-manifest.31b74ecfce56e65cf56be4a872cc7703.js": "/random-team-generator/precache-manifest.31b74ecfce56e65cf56be4a872cc7703.js",
+    "precache-manifest.dad14b7dff64754b36172c4b531a7498.js": "/random-team-generator/precache-manifest.dad14b7dff64754b36172c4b531a7498.js",
     "service-worker.js": "/random-team-generator/service-worker.js",
     "static/css/2.de424728.chunk.css.map": "/random-team-generator/static/css/2.de424728.chunk.css.map",
-    "static/css/main.ab5f3607.chunk.css.map": "/random-team-generator/static/css/main.ab5f3607.chunk.css.map",
+    "static/css/main.1477347a.chunk.css.map": "/random-team-generator/static/css/main.1477347a.chunk.css.map",
     "static/js/2.c5c8f678.chunk.js.LICENSE.txt": "/random-team-generator/static/js/2.c5c8f678.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ec6ef36d.js",
     "static/css/2.de424728.chunk.css",
     "static/js/2.c5c8f678.chunk.js",
-    "static/css/main.ab5f3607.chunk.css",
+    "static/css/main.1477347a.chunk.css",
     "static/js/main.5f53cb31.chunk.js"
   ]
 }
